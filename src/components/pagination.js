@@ -55,4 +55,4 @@ export const initPagination = (
     updatePagination,
     applyPagination,
   };
-}
+};
